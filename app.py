@@ -27,4 +27,3 @@ iface= gr.Interface(
 
 iface.launch(debug=True)
 
-
