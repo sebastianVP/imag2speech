@@ -1,0 +1,23 @@
+# entorno virtual
+env/
+venv/
+.venv/
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# modelos/cache HF
+.cache/
+huggingface/
+
+# gradio
+gradio_cached_examples/
+
+# jupyter
+.ipynb_checkpoints/
+
+# sistema
+.DS_Store
